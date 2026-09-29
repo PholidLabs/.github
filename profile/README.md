@@ -1,23 +1,19 @@
-# Pholid Labs - Custom Software & AI Applications
+# Pholid Labs - Open Source, Local-First Tools
 
-We craft custom software and AI applications: web apps, mobile apps, native macOS tools, and intelligent automation, built with care.
+A small lab building open-source, privacy-respecting software for the web and macOS. We like tools that run on your own machine, keep your data yours, and are fun to hack on.
 
+- 🗺️ [**chronomaps**](https://github.com/PholidLabs/chronomaps) — a local-first engine for interactive spatio-temporal maps and historical scrollytelling
 - 🌏 [Website](https://www.pholidlabs.com/)
-- 🧩 [Products](https://www.pholidlabs.com/products)
-- 🛠️ [Services](https://www.pholidlabs.com/services)
 - ✉️ [contact@pholidlabs.com](mailto:contact@pholidlabs.com)
 
-### Products
+### Contributing
 
-| | |
-|---|---|
-| **[SqueezeSlim](https://www.squeezeslim.com/)** | Lightning-fast, 100% offline media compression for macOS |
-| **[MetaVeils](https://www.metaveils.com/)** | Forensic metadata analysis for macOS, fully offline |
+Issues, ideas, and pull requests are welcome. Pick a repo, open an issue, or start a discussion.
 
-### Open Source
+### Also from the lab
 
-- 🗺️ [**chronomaps**](https://github.com/PholidLabs/chronomaps) — a local-first engine for interactive spatio-temporal maps and historical scrollytelling.
+Small offline-first macOS apps: [SqueezeSlim](https://www.squeezeslim.com/) (media compression), [MetaVeils](https://www.metaveils.com/) (metadata analysis), [MeetingTax](https://meetingtax.pholidlabs.com/) (meeting cost tracker).
 
 ```
-Crafted by Pholid Labs
+Built in the open by Pholid Labs
 ```
