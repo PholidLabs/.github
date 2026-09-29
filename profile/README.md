@@ -13,7 +13,6 @@ We craft custom software and AI applications: web apps, mobile apps, native macO
 |---|---|
 | **[SqueezeSlim](https://www.squeezeslim.com/)** | Lightning-fast, 100% offline media compression for macOS |
 | **[MetaVeils](https://www.metaveils.com/)** | Forensic metadata analysis for macOS, fully offline |
-| **[MeetingTax](https://meetingtax.pholidlabs.com/)** | See what every meeting really costs |
 
 ### Open Source
 
